@@ -1,0 +1,401 @@
+LaptopName,Company,RAM,SSD,HDD,CPU,GPU,ScreenSize,Weight,OS,Price
+Acer Swift 3,Acer,16,256,1000,Ryzen5,Intel,14.0,2.65,Windows,69893
+Lenovo Legion 5,Lenovo,32,512,500,i3,AMD,15.6,1.59,Windows,82594
+Acer Aspire Lite,Acer,8,256,500,Ryzen5,AMD,15.6,2.64,Windows,62393
+Lenovo ThinkPad X1,Lenovo,8,512,500,i5,AppleGPU,17.0,1.2,Windows,53363
+HP Omen 16,HP,32,1024,1000,i3,AppleGPU,16.0,1.55,Windows,82498
+Apple MacBook Air M3,Apple,8,512,500,M3,AMD,15.6,1.46,MacOS,173206
+Lenovo Legion 7,Lenovo,16,512,1000,i5,AMD,14.0,2.66,Windows,70221
+Lenovo Yoga 7i,Lenovo,16,256,0,i7,Intel,15.6,1.52,Windows,90645
+Apple MacBook Pro 16,Apple,16,512,500,M3,Nvidia,15.6,2.24,MacOS,187955
+Apple MacBook Air M2,Apple,16,1024,1000,M3,AppleGPU,17.0,1.5,MacOS,183585
+Asus VivoBook 15,Asus,32,256,500,Ryzen9,AppleGPU,17.0,2.59,Windows,154199
+Acer Aspire 7,Acer,8,256,500,i5,Intel,13.3,2.1,Windows,52369
+HP Victus 16,HP,16,512,500,i9,Nvidia,14.0,1.61,Windows,128856
+Dell G15 Gaming,Dell,32,512,0,i7,AppleGPU,14.0,1.67,Windows,120492
+Asus TUF F15,Asus,8,512,500,Ryzen7,AppleGPU,15.6,1.84,Windows,79860
+Lenovo Legion 5,Lenovo,16,256,1000,i7,Nvidia,13.3,2.13,Windows,99130
+Acer Aspire Lite,Acer,32,512,0,Ryzen5,AMD,14.0,2.64,Windows,92932
+Lenovo Legion 5,Lenovo,16,512,0,i7,Nvidia,17.0,2.55,Windows,108095
+Apple MacBook Pro 14,Apple,16,1024,500,M2,AMD,17.0,2.55,MacOS,151228
+Apple MacBook Pro 16,Apple,8,512,1000,M2,AppleGPU,13.3,2.67,MacOS,129623
+Asus ROG Zephyrus G14,Asus,16,512,1000,i5,AppleGPU,13.3,2.06,Windows,65766
+HP Omen 16,HP,32,256,0,i7,Nvidia,16.0,2.07,Windows,130934
+Dell XPS 13,Dell,8,256,1000,i3,Intel,14.0,1.92,Windows,47639
+Asus ROG Strix G15,Asus,8,1024,0,Ryzen9,AMD,16.0,1.97,Windows,117521
+Dell Inspiron 15,Dell,32,256,0,i9,Nvidia,14.0,2.09,Windows,155582
+Lenovo Legion 5,Lenovo,8,1024,1000,i3,Nvidia,13.3,2.11,Windows,62907
+Lenovo IdeaPad Slim 3,Lenovo,16,1024,0,Ryzen5,AppleGPU,17.0,1.86,Windows,75541
+Apple MacBook Pro 14,Apple,8,512,500,M3,AMD,14.0,1.36,MacOS,163595
+HP Envy 13,HP,16,1024,0,i7,AppleGPU,15.6,2.18,Windows,95810
+Apple MacBook Pro 14,Apple,16,256,1000,M2,AppleGPU,14.0,2.51,MacOS,143434
+Asus ROG Strix G15,Asus,16,256,1000,Ryzen7,AppleGPU,17.0,2.23,Windows,91750
+Apple MacBook Air M3,Apple,8,256,0,M2,AppleGPU,13.3,1.66,MacOS,134176
+Asus ZenBook 14,Asus,16,256,500,i5,Intel,16.0,2.11,Windows,66072
+Asus ROG Strix G15,Asus,32,256,1000,i7,AppleGPU,16.0,2.03,Windows,112982
+HP Omen 16,HP,32,512,1000,i9,AppleGPU,13.3,1.71,Windows,150154
+HP Pavilion 15,HP,8,256,0,i9,AMD,16.0,2.22,Windows,115021
+Dell XPS 15,Dell,16,1024,0,i7,AppleGPU,14.0,1.53,Windows,92572
+Lenovo Legion 7,Lenovo,32,256,1000,Ryzen5,AMD,15.6,1.1,Windows,97614
+Acer Nitro 5,Acer,32,1024,0,i3,Nvidia,16.0,2.44,Windows,97780
+HP Omen 16,HP,32,256,1000,i5,Nvidia,17.0,1.11,Windows,100544
+HP Pavilion 15,HP,32,256,1000,i3,Nvidia,17.0,2.52,Windows,89894
+Acer Swift 3,Acer,16,512,0,i7,AppleGPU,14.0,2.17,Windows,90880
+Apple MacBook Pro 16,Apple,32,1024,500,M2,Nvidia,14.0,2.3,MacOS,186948
+Lenovo IdeaPad Slim 3,Lenovo,8,256,0,i7,AppleGPU,13.3,2.43,Windows,76387
+Asus ZenBook 14,Asus,8,1024,1000,i5,AMD,17.0,1.94,Windows,60621
+HP Pavilion 15,HP,32,256,0,i3,AMD,15.6,2.6,Windows,85862
+Asus TUF F15,Asus,8,256,500,Ryzen7,AMD,13.3,2.38,Windows,88240
+Acer Aspire Lite,Acer,16,512,1000,i5,Nvidia,15.6,1.18,Windows,79545
+Apple MacBook Air M3,Apple,16,1024,0,M2,Intel,14.0,1.87,MacOS,146152
+Lenovo Legion 7,Lenovo,32,512,500,Ryzen7,AppleGPU,14.0,2.07,Windows,119447
+Lenovo ThinkPad X1,Lenovo,32,512,500,Ryzen7,Nvidia,16.0,2.48,Windows,133814
+Acer Aspire Lite,Acer,32,1024,500,Ryzen5,AppleGPU,15.6,1.67,Windows,96347
+Dell Inspiron 15,Dell,32,256,1000,i3,AMD,17.0,1.46,Windows,81948
+Asus ROG Strix G15,Asus,16,256,1000,Ryzen7,AMD,15.6,2.58,Windows,95990
+HP EliteBook 840,HP,8,256,500,i5,Intel,16.0,1.81,Windows,54477
+Asus VivoBook 15,Asus,8,512,1000,i5,AppleGPU,17.0,1.68,Windows,55222
+Apple MacBook Air M3,Apple,8,256,500,M1,Nvidia,14.0,2.53,MacOS,109404
+Asus ROG Zephyrus G14,Asus,16,1024,500,Ryzen7,Nvidia,17.0,2.32,Windows,112936
+HP Victus 16,HP,32,512,1000,i5,AppleGPU,14.0,1.53,Windows,87616
+Dell XPS 15,Dell,32,512,1000,i7,AppleGPU,17.0,1.87,Windows,115876
+Lenovo ThinkPad X1,Lenovo,32,512,0,Ryzen7,AppleGPU,17.0,1.73,Windows,124950
+Apple MacBook Pro 16,Apple,8,1024,0,M1,Nvidia,14.0,2.32,MacOS,109178
+Asus TUF F15,Asus,32,1024,0,Ryzen9,AMD,16.0,1.95,Windows,161784
+Acer Aspire 7,Acer,16,512,500,i7,AMD,14.0,1.46,Windows,91597
+Apple MacBook Pro 16,Apple,16,256,1000,M3,AppleGPU,15.6,1.79,MacOS,175659
+HP Victus 16,HP,32,256,1000,i7,Intel,15.6,2.63,Windows,111115
+Apple MacBook Air M2,Apple,8,512,0,M3,AppleGPU,14.0,2.33,MacOS,159802
+Acer Swift 3,Acer,32,512,500,i5,Intel,17.0,1.8,Windows,93757
+HP Victus 16,HP,16,512,0,i5,Intel,16.0,2.6,Windows,62481
+Dell Inspiron 14,Dell,16,1024,0,i9,AMD,13.3,1.86,Windows,131529
+Apple MacBook Pro 14,Apple,32,1024,1000,M1,AMD,16.0,1.21,MacOS,144462
+Asus TUF F15,Asus,32,1024,1000,i7,Intel,13.3,2.43,Windows,114889
+Acer Swift 3,Acer,32,512,0,i5,Nvidia,15.6,2.25,Windows,99256
+Lenovo ThinkPad X1,Lenovo,16,256,0,Ryzen5,Nvidia,14.0,1.79,Windows,82741
+Lenovo IdeaPad Slim 3,Lenovo,8,1024,0,i7,AMD,14.0,2.25,Windows,86217
+Lenovo Legion 5,Lenovo,16,256,0,i3,AppleGPU,17.0,1.46,Windows,59693
+Asus ROG Strix G15,Asus,16,1024,0,Ryzen9,AppleGPU,16.0,1.58,Windows,133780
+Apple MacBook Pro 14,Apple,16,1024,1000,M1,AMD,14.0,1.45,MacOS,122902
+Asus ROG Strix G15,Asus,8,512,500,i5,Intel,13.3,1.25,Windows,57331
+Apple MacBook Pro 16,Apple,8,256,0,M3,Intel,13.3,2.33,MacOS,160921
+Dell Inspiron 15,Dell,8,512,500,i7,Nvidia,15.6,1.35,Windows,94608
+Dell Inspiron 14,Dell,16,1024,500,i9,Nvidia,17.0,1.35,Windows,138346
+Acer Nitro 5,Acer,16,256,1000,i3,AppleGPU,14.0,2.32,Windows,55994
+Acer Swift 3,Acer,8,256,1000,i7,AppleGPU,17.0,1.52,Windows,83163
+Acer Aspire 7,Acer,32,256,0,i5,AMD,14.0,1.19,Windows,94920
+Lenovo Legion 5,Lenovo,8,1024,0,Ryzen5,AMD,16.0,1.49,Windows,61076
+Dell Inspiron 15,Dell,16,512,1000,i9,AppleGPU,16.0,1.9,Windows,125681
+Apple MacBook Pro 14,Apple,8,512,1000,M2,Intel,13.3,2.25,MacOS,138114
+HP EliteBook 840,HP,16,1024,1000,i5,AppleGPU,14.0,2.36,Windows,71194
+Apple MacBook Air M3,Apple,32,256,0,M2,AppleGPU,13.3,1.59,MacOS,168371
+HP Victus 16,HP,8,256,1000,i5,AppleGPU,13.3,2.51,Windows,57777
+Lenovo IdeaPad Slim 3,Lenovo,8,1024,0,i5,AppleGPU,13.3,2.64,Windows,53829
+Dell XPS 13,Dell,8,512,1000,i5,Intel,15.6,1.65,Windows,56115
+Asus TUF F15,Asus,32,1024,0,Ryzen9,Intel,17.0,2.25,Windows,155230
+HP Victus 16,HP,16,1024,500,i3,AMD,13.3,1.73,Windows,67971
+Lenovo ThinkPad X1,Lenovo,32,256,500,i3,Intel,14.0,2.33,Windows,78598
+Lenovo IdeaPad Slim 3,Lenovo,16,256,500,Ryzen7,Intel,13.3,1.89,Windows,99319
+Acer Swift 3,Acer,8,256,500,i5,AMD,15.6,1.19,Windows,58452
+HP Omen 16,HP,32,512,0,i7,AppleGPU,13.3,1.72,Windows,120224
+HP Victus 16,HP,8,256,500,i3,AppleGPU,16.0,1.22,Windows,38930
+HP Envy 13,HP,32,512,500,i5,Intel,17.0,2.66,Windows,89569
+Lenovo Legion 5,Lenovo,16,1024,0,Ryzen7,Nvidia,13.3,1.9,Windows,114092
+Dell Inspiron 15,Dell,8,512,500,i7,Nvidia,16.0,2.39,Windows,90969
+Apple MacBook Air M3,Apple,32,256,0,M1,Intel,17.0,2.1,MacOS,132203
+Asus ROG Strix G15,Asus,8,512,500,Ryzen7,AppleGPU,17.0,1.92,Windows,84083
+Apple MacBook Air M1,Apple,32,256,1000,M2,Nvidia,14.0,2.65,MacOS,180445
+Lenovo Yoga 7i,Lenovo,16,256,1000,i7,AMD,13.3,2.05,Windows,98943
+Apple MacBook Air M2,Apple,16,1024,1000,M2,Intel,17.0,2.61,MacOS,146187
+Apple MacBook Air M2,Apple,16,512,0,M2,Intel,17.0,2.13,MacOS,150391
+Asus ZenBook 14,Asus,16,1024,1000,Ryzen7,Intel,14.0,2.14,Windows,101514
+Apple MacBook Pro 16,Apple,32,256,0,M1,AMD,14.0,1.46,MacOS,138053
+Acer Predator Helios 300,Acer,16,1024,0,Ryzen5,Nvidia,15.6,1.31,Windows,85960
+Acer Swift 3,Acer,8,512,500,i3,AppleGPU,17.0,1.59,Windows,44804
+Asus VivoBook 15,Asus,16,1024,0,Ryzen9,AMD,15.6,2.6,Windows,130613
+Dell G15 Gaming,Dell,8,1024,0,i7,AppleGPU,17.0,1.57,Windows,77445
+Dell Inspiron 15,Dell,32,256,0,i7,AMD,13.3,2.54,Windows,113449
+Apple MacBook Air M2,Apple,8,512,1000,M3,Nvidia,14.0,1.8,MacOS,179122
+Asus ROG Strix G15,Asus,8,256,1000,Ryzen9,AppleGPU,14.0,1.4,Windows,113333
+Apple MacBook Air M2,Apple,32,512,1000,M1,Intel,13.3,1.98,MacOS,131615
+Asus ROG Strix G15,Asus,8,512,500,i5,Intel,17.0,2.52,Windows,59511
+Lenovo Legion 7,Lenovo,8,1024,500,i5,Nvidia,13.3,1.4,Windows,72309
+HP Victus 16,HP,16,256,0,i5,Intel,13.3,2.51,Windows,64725
+Dell Inspiron 15,Dell,8,256,1000,i5,Nvidia,15.6,2.39,Windows,70197
+Acer Aspire 7,Acer,16,1024,1000,Ryzen5,Intel,17.0,1.54,Windows,66379
+Lenovo ThinkPad X1,Lenovo,32,1024,500,i5,AMD,14.0,1.6,Windows,95571
+Lenovo Legion 7,Lenovo,8,512,0,i5,AMD,13.3,1.5,Windows,58650
+Dell G15 Gaming,Dell,32,256,0,i7,AMD,16.0,1.24,Windows,115350
+Acer Aspire Lite,Acer,8,512,500,i3,Intel,16.0,2.37,Windows,41880
+Acer Aspire 7,Acer,32,1024,500,Ryzen5,AppleGPU,15.6,2.58,Windows,91551
+Lenovo Yoga 7i,Lenovo,32,512,0,Ryzen5,Intel,15.6,1.19,Windows,88793
+Apple MacBook Air M1,Apple,8,256,0,M3,AMD,17.0,1.6,MacOS,168016
+Apple MacBook Air M1,Apple,8,256,1000,M1,Intel,13.3,2.17,MacOS,98644
+Acer Aspire 7,Acer,32,256,1000,i5,Intel,15.6,1.36,Windows,93483
+Asus ZenBook 14,Asus,16,512,500,Ryzen7,Nvidia,13.3,2.21,Windows,113476
+Asus VivoBook 15,Asus,8,1024,1000,i7,Nvidia,14.0,1.16,Windows,98065
+Dell Inspiron 15,Dell,16,512,1000,i7,AppleGPU,14.0,1.67,Windows,88991
+HP Omen 16,HP,32,256,1000,i5,Nvidia,16.0,2.67,Windows,103067
+Apple MacBook Pro 16,Apple,32,256,0,M1,AppleGPU,16.0,2.29,MacOS,138257
+Apple MacBook Air M2,Apple,32,512,500,M2,AppleGPU,17.0,1.83,MacOS,168931
+Apple MacBook Air M2,Apple,8,512,0,M3,AppleGPU,13.3,2.45,MacOS,160965
+HP Envy 13,HP,16,512,0,i5,AMD,14.0,2.14,Windows,72312
+Asus TUF F15,Asus,16,512,1000,i7,AMD,15.6,2.3,Windows,92164
+HP Omen 16,HP,16,256,1000,i9,AppleGPU,14.0,1.67,Windows,121398
+Acer Predator Helios 300,Acer,32,256,1000,Ryzen5,AppleGPU,14.0,2.52,Windows,95579
+Lenovo Yoga 7i,Lenovo,8,256,500,i7,Intel,16.0,1.86,Windows,79380
+Asus ZenBook 14,Asus,32,1024,500,i7,AMD,13.3,2.01,Windows,121793
+HP Envy 13,HP,8,1024,1000,i7,AppleGPU,13.3,1.46,Windows,86386
+Lenovo Legion 7,Lenovo,8,512,500,i7,Intel,17.0,2.01,Windows,81492
+Acer Aspire 7,Acer,8,256,500,i5,AppleGPU,16.0,1.5,Windows,55950
+Acer Predator Helios 300,Acer,8,1024,500,i7,AppleGPU,16.0,2.32,Windows,82431
+Acer Predator Helios 300,Acer,32,256,0,i5,AMD,15.6,1.91,Windows,93521
+Asus ROG Strix G15,Asus,16,1024,500,Ryzen7,Intel,15.6,1.36,Windows,102624
+HP Omen 16,HP,16,512,500,i3,Intel,16.0,1.51,Windows,58780
+HP Victus 16,HP,32,512,0,i9,AMD,14.0,2.22,Windows,154371
+Acer Nitro 5,Acer,8,1024,0,Ryzen5,Intel,17.0,2.17,Windows,60787
+Asus ZenBook 14,Asus,32,1024,1000,Ryzen9,Nvidia,14.0,2.49,Windows,168440
+Apple MacBook Air M2,Apple,8,256,1000,M2,AMD,15.6,2.66,MacOS,135627
+Acer Nitro 5,Acer,8,512,500,i5,Nvidia,15.6,1.87,Windows,63282
+Asus TUF F15,Asus,16,256,0,i5,Intel,13.3,1.63,Windows,61350
+Lenovo IdeaPad Slim 3,Lenovo,32,1024,500,i3,AppleGPU,14.0,2.12,Windows,82014
+Lenovo Legion 5,Lenovo,8,1024,0,i3,AMD,13.3,2.51,Windows,50465
+HP Pavilion 15,HP,16,512,0,i9,Intel,14.0,1.4,Windows,125290
+Dell G15 Gaming,Dell,8,256,500,i5,Intel,15.6,1.25,Windows,49456
+Apple MacBook Air M1,Apple,16,512,1000,M1,AppleGPU,15.6,2.67,MacOS,113940
+Dell Alienware M15,Dell,8,1024,0,i5,Nvidia,17.0,2.08,Windows,64896
+Lenovo Yoga 7i,Lenovo,16,256,500,Ryzen5,AppleGPU,15.6,1.65,Windows,69014
+Acer Predator Helios 300,Acer,8,1024,0,i3,Nvidia,16.0,1.53,Windows,60509
+Dell Inspiron 15,Dell,32,512,0,i9,AppleGPU,17.0,1.21,Windows,148209
+HP Pavilion 15,HP,16,512,500,i5,AMD,17.0,1.48,Windows,71884
+Acer Swift 3,Acer,16,256,500,i5,AppleGPU,14.0,1.51,Windows,69353
+Dell XPS 15,Dell,32,256,500,i5,Intel,15.6,2.36,Windows,89420
+Lenovo ThinkPad X1,Lenovo,32,256,0,Ryzen5,Nvidia,14.0,2.52,Windows,107802
+Lenovo IdeaPad Slim 3,Lenovo,8,256,500,i7,AppleGPU,17.0,1.73,Windows,76990
+Acer Swift 3,Acer,8,256,500,i5,AppleGPU,15.6,1.92,Windows,50424
+HP Omen 16,HP,16,512,500,i7,Nvidia,14.0,1.6,Windows,106040
+Apple MacBook Air M1,Apple,8,1024,0,M1,Nvidia,17.0,2.27,MacOS,117082
+HP Pavilion 15,HP,32,512,0,i5,Intel,16.0,1.26,Windows,95329
+Lenovo Legion 5,Lenovo,8,1024,0,Ryzen5,Nvidia,16.0,1.43,Windows,68500
+Asus TUF F15,Asus,8,512,500,i5,Nvidia,15.6,1.26,Windows,64069
+Apple MacBook Air M3,Apple,8,512,500,M3,AppleGPU,15.6,2.19,MacOS,169255
+Acer Predator Helios 300,Acer,16,1024,500,Ryzen5,AMD,15.6,2.28,Windows,74823
+HP Pavilion 15,HP,8,512,0,i7,AMD,14.0,1.35,Windows,82986
+Asus VivoBook 15,Asus,16,1024,500,Ryzen7,Nvidia,14.0,1.8,Windows,109691
+Lenovo Yoga 7i,Lenovo,8,1024,0,Ryzen5,Nvidia,15.6,1.36,Windows,74392
+Lenovo IdeaPad Slim 3,Lenovo,32,256,1000,i5,AMD,15.6,1.27,Windows,90713
+HP EliteBook 840,HP,16,256,1000,i7,Intel,17.0,2.46,Windows,87987
+HP Pavilion 15,HP,8,256,1000,i7,Nvidia,13.3,2.1,Windows,90034
+Apple MacBook Air M3,Apple,32,256,1000,M3,Nvidia,13.3,1.57,MacOS,206346
+HP Envy 13,HP,8,256,0,i3,AppleGPU,14.0,1.54,Windows,44884
+Lenovo Yoga 7i,Lenovo,32,256,0,i5,AMD,13.3,1.47,Windows,89328
+Asus ZenBook 14,Asus,8,256,0,i7,AMD,14.0,1.5,Windows,85176
+Dell G15 Gaming,Dell,16,1024,0,i7,Nvidia,16.0,1.26,Windows,109000
+HP EliteBook 840,HP,32,512,1000,i3,AMD,15.6,1.97,Windows,85162
+Dell XPS 13,Dell,32,512,0,i9,AMD,13.3,2.5,Windows,152689
+Apple MacBook Air M3,Apple,16,256,0,M1,AMD,14.0,1.88,MacOS,109570
+Apple MacBook Air M3,Apple,16,256,500,M2,Intel,17.0,1.91,MacOS,147488
+Dell Inspiron 15,Dell,32,512,0,i9,Nvidia,14.0,1.29,Windows,155866
+Asus ROG Strix G15,Asus,16,256,0,i7,Intel,14.0,1.1,Windows,88668
+Lenovo Legion 5,Lenovo,32,256,1000,i5,Intel,16.0,1.18,Windows,89063
+HP Pavilion 15,HP,16,1024,500,i3,AMD,14.0,1.12,Windows,63989
+Dell G15 Gaming,Dell,8,256,0,i5,AppleGPU,16.0,1.9,Windows,52972
+Apple MacBook Air M2,Apple,32,512,1000,M3,Intel,15.6,1.52,MacOS,198018
+Dell XPS 13,Dell,8,256,1000,i3,AMD,16.0,2.61,Windows,46224
+Acer Aspire 7,Acer,32,1024,1000,Ryzen5,AMD,15.6,1.63,Windows,94921
+Asus ROG Zephyrus G14,Asus,8,1024,1000,i7,Intel,13.3,2.16,Windows,79095
+Apple MacBook Pro 16,Apple,8,256,500,M3,AMD,17.0,2.14,MacOS,170730
+Apple MacBook Pro 14,Apple,16,1024,500,M3,AMD,17.0,1.37,MacOS,180123
+Dell Inspiron 14,Dell,8,512,0,i9,AMD,17.0,1.75,Windows,118256
+HP Omen 16,HP,16,1024,500,i9,Intel,13.3,1.62,Windows,121613
+Asus ZenBook 14,Asus,8,1024,1000,Ryzen9,AppleGPU,17.0,1.58,Windows,116476
+HP Envy 13,HP,32,1024,0,i7,Intel,15.6,2.27,Windows,118968
+Asus ROG Zephyrus G14,Asus,32,512,0,Ryzen9,AMD,13.3,2.48,Windows,156808
+Acer Predator Helios 300,Acer,32,512,1000,i7,Intel,14.0,1.54,Windows,110569
+Lenovo ThinkPad X1,Lenovo,8,512,1000,i3,Intel,14.0,1.87,Windows,42104
+Dell XPS 13,Dell,16,256,0,i7,Nvidia,13.3,2.36,Windows,100452
+Dell Inspiron 15,Dell,16,256,500,i5,AppleGPU,17.0,1.38,Windows,62989
+HP Omen 16,HP,16,256,1000,i7,Intel,17.0,2.54,Windows,86299
+Asus VivoBook 15,Asus,8,256,1000,Ryzen7,Intel,16.0,2.22,Windows,88083
+Asus ZenBook 14,Asus,8,512,0,i7,Nvidia,13.3,2.08,Windows,92131
+Apple MacBook Air M2,Apple,16,256,500,M3,AppleGPU,16.0,1.15,MacOS,174295
+Lenovo IdeaPad Slim 3,Lenovo,8,512,1000,i3,AppleGPU,16.0,2.45,Windows,45917
+Asus VivoBook 15,Asus,32,1024,500,Ryzen9,Nvidia,17.0,2.27,Windows,164987
+HP EliteBook 840,HP,8,512,0,i9,AMD,14.0,2.23,Windows,109062
+Asus ROG Zephyrus G14,Asus,16,512,500,Ryzen9,Nvidia,14.0,1.7,Windows,135518
+Dell Alienware M15,Dell,32,1024,0,i9,AMD,13.3,2.54,Windows,156473
+Lenovo Legion 7,Lenovo,8,1024,1000,i7,Intel,17.0,2.44,Windows,77864
+HP Omen 16,HP,32,1024,0,i7,AppleGPU,16.0,1.66,Windows,120738
+Apple MacBook Air M2,Apple,8,512,500,M1,Nvidia,16.0,2.4,MacOS,110517
+HP Victus 16,HP,32,512,1000,i9,Intel,16.0,2.13,Windows,146275
+Asus ROG Zephyrus G14,Asus,32,1024,1000,i7,AMD,17.0,2.62,Windows,124474
+HP EliteBook 840,HP,8,256,500,i7,AMD,14.0,2.24,Windows,80582
+Dell XPS 15,Dell,16,256,1000,i5,Intel,13.3,2.12,Windows,65058
+HP Pavilion 15,HP,32,256,1000,i3,AMD,17.0,1.76,Windows,78382
+Apple MacBook Pro 14,Apple,32,256,0,M2,AppleGPU,14.0,2.13,MacOS,167070
+Lenovo Legion 5,Lenovo,8,1024,0,i7,Intel,14.0,1.86,Windows,77389
+Acer Predator Helios 300,Acer,8,256,500,i5,AppleGPU,16.0,2.14,Windows,56031
+Dell G15 Gaming,Dell,8,512,500,i7,Intel,14.0,2.43,Windows,75974
+Apple MacBook Pro 14,Apple,32,256,0,M2,AMD,15.6,1.12,MacOS,170568
+Apple MacBook Pro 16,Apple,8,512,500,M3,Intel,15.6,2.65,MacOS,165413
+Lenovo Legion 5,Lenovo,8,1024,500,Ryzen5,AMD,13.3,2.51,Windows,61333
+Dell Inspiron 15,Dell,16,1024,0,i7,AppleGPU,13.3,1.56,Windows,92799
+Asus ROG Strix G15,Asus,16,256,1000,Ryzen7,AMD,16.0,1.23,Windows,102841
+Lenovo IdeaPad Slim 3,Lenovo,8,512,0,i3,Nvidia,15.6,1.37,Windows,51567
+Dell XPS 15,Dell,16,256,0,i5,AMD,17.0,2.36,Windows,66289
+Apple MacBook Air M3,Apple,16,256,0,M1,Nvidia,16.0,1.48,MacOS,125222
+Dell Alienware M15,Dell,8,512,0,i5,Intel,16.0,2.35,Windows,53104
+Acer Aspire Lite,Acer,8,512,500,Ryzen5,AppleGPU,14.0,2.34,Windows,58267
+Apple MacBook Pro 14,Apple,32,1024,0,M3,AppleGPU,14.0,1.67,MacOS,201602
+Apple MacBook Air M1,Apple,16,256,1000,M2,AMD,14.0,2.28,MacOS,147192
+Lenovo IdeaPad Slim 3,Lenovo,16,1024,500,Ryzen7,AppleGPU,14.0,1.46,Windows,98571
+Dell Alienware M15,Dell,16,1024,1000,i7,Nvidia,15.6,2.16,Windows,104941
+Apple MacBook Air M1,Apple,32,256,500,M3,Intel,14.0,2.69,MacOS,200379
+Dell XPS 15,Dell,16,512,500,i3,Nvidia,13.3,2.67,Windows,66322
+Apple MacBook Air M1,Apple,8,256,500,M2,AMD,17.0,1.23,MacOS,135098
+Acer Swift 3,Acer,8,1024,1000,i3,Intel,15.6,2.02,Windows,47807
+Acer Aspire Lite,Acer,16,256,500,i3,AMD,15.6,1.56,Windows,59492
+Apple MacBook Air M2,Apple,32,1024,0,M1,Intel,17.0,1.31,MacOS,142187
+Apple MacBook Pro 14,Apple,8,256,1000,M1,AppleGPU,14.0,1.45,MacOS,99931
+Asus VivoBook 15,Asus,8,512,0,i7,AppleGPU,14.0,1.93,Windows,80450
+Apple MacBook Air M3,Apple,8,256,500,M1,Nvidia,14.0,1.57,MacOS,108871
+Dell XPS 13,Dell,8,1024,500,i7,Intel,13.3,1.23,Windows,80986
+Dell Alienware M15,Dell,8,512,1000,i5,AMD,13.3,1.75,Windows,57461
+Asus ROG Zephyrus G14,Asus,16,512,0,Ryzen7,AMD,14.0,1.12,Windows,99047
+Acer Aspire 7,Acer,8,256,0,i3,Nvidia,13.3,1.8,Windows,59431
+Asus ROG Zephyrus G14,Asus,32,256,1000,i5,Intel,16.0,2.45,Windows,88321
+Apple MacBook Pro 16,Apple,32,1024,0,M1,AppleGPU,16.0,1.18,MacOS,133686
+Dell Inspiron 15,Dell,32,512,0,i9,Nvidia,13.3,1.24,Windows,154809
+Apple MacBook Air M2,Apple,8,1024,1000,M3,AMD,13.3,1.26,MacOS,174003
+Asus ZenBook 14,Asus,16,1024,500,i7,AMD,16.0,2.36,Windows,93534
+Apple MacBook Pro 14,Apple,32,1024,1000,M2,AppleGPU,17.0,2.45,MacOS,168317
+Dell XPS 15,Dell,16,512,1000,i7,AppleGPU,14.0,1.16,Windows,92415
+Acer Nitro 5,Acer,8,1024,0,i7,AppleGPU,14.0,1.85,Windows,77950
+HP Pavilion 15,HP,32,256,500,i7,AppleGPU,16.0,1.73,Windows,116458
+Acer Predator Helios 300,Acer,32,512,500,i7,AppleGPU,15.6,1.58,Windows,118442
+Dell Inspiron 14,Dell,8,512,1000,i3,AMD,15.6,1.61,Windows,53349
+Lenovo Legion 7,Lenovo,32,512,500,Ryzen7,Intel,13.3,1.51,Windows,124832
+HP Omen 16,HP,16,256,1000,i7,Intel,17.0,2.13,Windows,92988
+Lenovo ThinkPad X1,Lenovo,16,256,500,i5,AMD,14.0,1.3,Windows,72236
+Lenovo IdeaPad Slim 3,Lenovo,8,256,1000,Ryzen5,Intel,13.3,2.54,Windows,53713
+HP Victus 16,HP,16,512,1000,i5,AMD,15.6,2.52,Windows,65737
+Lenovo IdeaPad Slim 3,Lenovo,16,1024,1000,Ryzen5,Intel,13.3,1.21,Windows,67838
+Asus ROG Strix G15,Asus,32,256,500,i5,AMD,17.0,2.51,Windows,94751
+Asus VivoBook 15,Asus,32,1024,0,Ryzen9,AppleGPU,14.0,2.09,Windows,152246
+Asus ZenBook 14,Asus,16,256,500,Ryzen9,Intel,16.0,1.27,Windows,125766
+Acer Aspire Lite,Acer,16,256,0,i7,Intel,17.0,1.55,Windows,88939
+Lenovo Legion 7,Lenovo,16,512,1000,i3,Nvidia,15.6,2.56,Windows,73050
+Lenovo IdeaPad Slim 3,Lenovo,32,512,0,i5,AMD,13.3,2.66,Windows,95921
+Asus VivoBook 15,Asus,16,512,1000,Ryzen7,Nvidia,16.0,2.44,Windows,106016
+Asus ROG Strix G15,Asus,32,256,0,i7,AppleGPU,17.0,1.84,Windows,116402
+Lenovo IdeaPad Slim 3,Lenovo,16,1024,1000,i7,Intel,15.6,1.75,Windows,94702
+Apple MacBook Pro 16,Apple,8,256,500,M1,Nvidia,17.0,2.21,MacOS,112065
+Asus VivoBook 15,Asus,32,512,0,Ryzen9,AMD,16.0,2.35,Windows,151479
+Asus ROG Strix G15,Asus,8,1024,0,Ryzen7,AppleGPU,13.3,1.1,Windows,88658
+Lenovo IdeaPad Slim 3,Lenovo,16,1024,1000,i3,Intel,17.0,1.64,Windows,54387
+Acer Swift 3,Acer,16,256,0,i7,Nvidia,17.0,2.13,Windows,101802
+Apple MacBook Pro 14,Apple,32,1024,0,M1,AMD,17.0,1.72,MacOS,137721
+Asus VivoBook 15,Asus,16,1024,1000,i7,AMD,14.0,2.06,Windows,100868
+HP EliteBook 840,HP,8,256,1000,i3,AppleGPU,14.0,1.91,Windows,41152
+Apple MacBook Air M2,Apple,32,1024,500,M2,Intel,15.6,2.59,MacOS,170162
+Acer Aspire Lite,Acer,16,256,1000,i3,Intel,14.0,1.36,Windows,52319
+Acer Swift 3,Acer,32,1024,500,Ryzen5,AMD,16.0,1.52,Windows,97882
+Dell Inspiron 14,Dell,32,512,0,i5,AMD,17.0,2.69,Windows,93537
+Lenovo Yoga 7i,Lenovo,8,512,1000,i7,Intel,13.3,2.14,Windows,82048
+HP Victus 16,HP,8,1024,0,i5,AppleGPU,15.6,2.42,Windows,61203
+Lenovo Legion 7,Lenovo,8,512,1000,i5,Nvidia,15.6,1.95,Windows,64857
+Apple MacBook Air M1,Apple,16,1024,0,M2,Intel,14.0,2.01,MacOS,144136
+Apple MacBook Air M3,Apple,8,1024,500,M3,AMD,13.3,2.01,MacOS,167517
+Acer Nitro 5,Acer,8,256,1000,i7,AMD,17.0,1.8,Windows,79470
+HP EliteBook 840,HP,8,1024,1000,i7,Nvidia,16.0,2.49,Windows,95683
+HP Pavilion 15,HP,32,512,1000,i7,AppleGPU,16.0,1.87,Windows,116327
+Lenovo Yoga 7i,Lenovo,32,256,0,i5,Nvidia,17.0,1.38,Windows,101591
+HP EliteBook 840,HP,32,1024,1000,i9,Nvidia,14.0,1.93,Windows,156836
+Lenovo Legion 7,Lenovo,16,256,500,i7,Nvidia,17.0,1.86,Windows,100142
+Dell Inspiron 15,Dell,32,512,500,i3,Nvidia,13.3,1.43,Windows,89302
+Dell G15 Gaming,Dell,8,1024,500,i5,Intel,15.6,2.22,Windows,54210
+Lenovo Legion 5,Lenovo,32,512,0,i3,AppleGPU,14.0,2.13,Windows,82640
+Acer Swift 3,Acer,8,256,500,i3,Nvidia,15.6,1.82,Windows,58795
+HP Omen 16,HP,32,512,1000,i9,Nvidia,13.3,1.48,Windows,157855
+Acer Predator Helios 300,Acer,8,1024,1000,i3,AppleGPU,17.0,1.83,Windows,44325
+Dell Inspiron 14,Dell,32,1024,1000,i3,AMD,16.0,2.2,Windows,90214
+Apple MacBook Air M2,Apple,16,512,0,M3,Intel,15.6,1.45,MacOS,179185
+Apple MacBook Air M1,Apple,8,256,1000,M2,Nvidia,16.0,1.77,MacOS,147399
+Asus ROG Zephyrus G14,Asus,32,256,500,i5,Intel,17.0,2.22,Windows,90286
+Asus TUF F15,Asus,8,256,500,Ryzen7,AMD,14.0,1.37,Windows,88833
+HP Pavilion 15,HP,32,256,500,i7,AMD,17.0,1.76,Windows,113346
+HP Envy 13,HP,16,1024,0,i3,AMD,16.0,1.18,Windows,59847
+Asus ZenBook 14,Asus,8,512,500,i5,AMD,13.3,2.62,Windows,54911
+Acer Aspire 7,Acer,32,1024,500,i7,AMD,15.6,2.07,Windows,124676
+Lenovo Legion 7,Lenovo,8,1024,1000,Ryzen7,AppleGPU,15.6,2.13,Windows,84419
+Apple MacBook Air M2,Apple,32,512,500,M1,AppleGPU,16.0,2.61,MacOS,138280
+Apple MacBook Air M3,Apple,32,1024,1000,M1,Nvidia,14.0,1.11,MacOS,150664
+HP EliteBook 840,HP,8,256,500,i5,AppleGPU,16.0,1.89,Windows,57773
+Lenovo Yoga 7i,Lenovo,32,1024,500,Ryzen7,Intel,13.3,1.97,Windows,120823
+Asus VivoBook 15,Asus,16,256,1000,i5,Nvidia,15.6,1.88,Windows,73364
+Dell G15 Gaming,Dell,32,256,0,i9,Nvidia,17.0,2.57,Windows,152463
+Apple MacBook Air M3,Apple,32,256,0,M3,Intel,14.0,1.38,MacOS,199134
+Acer Predator Helios 300,Acer,8,256,0,i5,AppleGPU,16.0,2.25,Windows,55581
+Asus ZenBook 14,Asus,8,512,1000,i7,AppleGPU,14.0,2.37,Windows,81283
+Asus ROG Strix G15,Asus,32,1024,1000,Ryzen7,AMD,15.6,2.25,Windows,130724
+Apple MacBook Air M2,Apple,16,512,0,M1,AMD,15.6,1.67,MacOS,118303
+Dell Inspiron 15,Dell,8,512,0,i5,AMD,13.3,1.97,Windows,60630
+Acer Aspire 7,Acer,8,256,500,i7,AppleGPU,15.6,2.47,Windows,81385
+Dell XPS 13,Dell,8,1024,0,i9,AMD,16.0,2.37,Windows,111909
+Acer Swift 3,Acer,8,512,1000,i5,Nvidia,15.6,2.4,Windows,67556
+Acer Predator Helios 300,Acer,8,256,500,i5,AMD,16.0,2.17,Windows,52414
+Acer Nitro 5,Acer,16,512,0,i7,Intel,13.3,2.12,Windows,88803
+Lenovo Yoga 7i,Lenovo,8,256,0,i3,AppleGPU,14.0,2.3,Windows,45377
+HP EliteBook 840,HP,32,1024,1000,i5,AppleGPU,13.3,1.2,Windows,90849
+Dell Inspiron 14,Dell,16,256,0,i5,Intel,13.3,2.68,Windows,61173
+Apple MacBook Air M3,Apple,16,256,1000,M1,Nvidia,13.3,2.11,MacOS,124426
+Lenovo Legion 7,Lenovo,8,1024,1000,i7,AMD,15.6,1.57,Windows,87520
+Asus VivoBook 15,Asus,8,256,1000,Ryzen9,Nvidia,14.0,1.73,Windows,129667
+Lenovo IdeaPad Slim 3,Lenovo,16,1024,500,i7,AppleGPU,16.0,2.13,Windows,93233
+Asus TUF F15,Asus,32,256,0,Ryzen9,AppleGPU,15.6,1.34,Windows,147437
+Dell XPS 15,Dell,16,1024,500,i3,AppleGPU,13.3,1.78,Windows,64024
+Asus ZenBook 14,Asus,32,256,500,Ryzen9,AMD,16.0,2.4,Windows,158199
+Asus ROG Strix G15,Asus,32,512,0,i5,Nvidia,16.0,1.45,Windows,100144
+Acer Predator Helios 300,Acer,8,256,500,i5,AMD,13.3,2.02,Windows,54002
+Lenovo Yoga 7i,Lenovo,8,512,1000,i3,AMD,14.0,1.27,Windows,49616
+Asus ROG Strix G15,Asus,8,256,500,Ryzen7,AppleGPU,16.0,2.12,Windows,86029
+Acer Aspire Lite,Acer,16,256,1000,i3,Intel,15.6,1.71,Windows,51532
+Lenovo Legion 5,Lenovo,16,1024,0,i7,AMD,15.6,2.06,Windows,102134
+HP Pavilion 15,HP,8,1024,1000,i5,Nvidia,15.6,2.0,Windows,71953
+Dell G15 Gaming,Dell,32,256,1000,i7,Intel,16.0,1.66,Windows,117080
+Apple MacBook Air M1,Apple,16,512,0,M1,AppleGPU,17.0,1.18,MacOS,110302
+HP Victus 16,HP,16,512,500,i5,Intel,14.0,2.31,Windows,65280
+Apple MacBook Air M3,Apple,32,256,0,M2,Intel,15.6,1.68,MacOS,169096
+Acer Swift 3,Acer,32,256,0,i3,Nvidia,17.0,1.71,Windows,95947
+HP Victus 16,HP,8,1024,1000,i9,AMD,17.0,2.1,Windows,114889
+HP Victus 16,HP,8,512,500,i7,AMD,17.0,1.43,Windows,88270
+Dell Inspiron 14,Dell,32,1024,500,i3,AMD,16.0,1.78,Windows,91027
+Asus TUF F15,Asus,8,512,1000,i5,Nvidia,17.0,1.19,Windows,67351
+Lenovo ThinkPad X1,Lenovo,32,512,0,i3,AMD,15.6,2.42,Windows,80618
+Acer Predator Helios 300,Acer,8,512,0,i3,Nvidia,16.0,2.4,Windows,59794
+Dell G15 Gaming,Dell,16,256,0,i5,AppleGPU,16.0,2.09,Windows,63540
+HP EliteBook 840,HP,16,1024,500,i3,Nvidia,17.0,2.27,Windows,69885
+Lenovo Legion 7,Lenovo,8,1024,1000,i3,AppleGPU,14.0,1.54,Windows,50845
+Dell Inspiron 15,Dell,16,1024,1000,i5,AppleGPU,16.0,1.3,Windows,73120
+Apple MacBook Pro 14,Apple,8,1024,1000,M3,AMD,14.0,2.24,MacOS,166693
+Asus TUF F15,Asus,8,512,0,Ryzen9,Intel,16.0,2.15,Windows,114174
+Asus ROG Strix G15,Asus,8,1024,1000,i7,Intel,16.0,1.13,Windows,86440
+Lenovo ThinkPad X1,Lenovo,32,256,1000,i3,AMD,17.0,2.25,Windows,83368
+Apple MacBook Air M1,Apple,16,256,1000,M3,AMD,15.6,2.39,MacOS,183778
+Dell XPS 15,Dell,8,1024,1000,i5,AMD,13.3,1.89,Windows,59145
+Asus TUF F15,Asus,16,1024,0,i5,Nvidia,13.3,1.14,Windows,82102
+Dell Alienware M15,Dell,16,256,0,i9,AMD,14.0,2.13,Windows,125610
+Lenovo Legion 5,Lenovo,16,256,0,Ryzen7,AMD,16.0,1.96,Windows,103760
+Acer Aspire 7,Acer,32,512,1000,i5,Intel,17.0,1.45,Windows,88075
+Apple MacBook Pro 14,Apple,32,256,1000,M1,Nvidia,13.3,2.22,MacOS,145989
+Lenovo Legion 5,Lenovo,32,1024,500,i5,Intel,15.6,1.48,Windows,89560
+Lenovo ThinkPad X1,Lenovo,16,256,0,i5,AppleGPU,15.6,1.39,Windows,61989
+Dell XPS 13,Dell,32,512,500,i9,Intel,15.6,2.42,Windows,146072
+Asus TUF F15,Asus,16,256,1000,Ryzen9,AppleGPU,13.3,1.36,Windows,128681
+Dell Inspiron 15,Dell,32,256,0,i3,AppleGPU,16.0,2.3,Windows,82430
+Asus ROG Zephyrus G14,Asus,16,512,0,Ryzen9,Intel,16.0,2.05,Windows,129798
+Lenovo Yoga 7i,Lenovo,16,1024,0,i5,Intel,15.6,2.67,Windows,71236
+Dell G15 Gaming,Dell,8,1024,500,i3,Intel,15.6,2.55,Windows,48935
+HP Envy 13,HP,32,1024,500,i5,Intel,16.0,1.42,Windows,88880
+HP Envy 13,HP,8,512,500,i5,AppleGPU,14.0,1.46,Windows,58148
+Dell XPS 13,Dell,32,1024,0,i7,AMD,16.0,2.2,Windows,125958
